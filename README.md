@@ -1,2 +1,2 @@
 # draw-smash
-Training Repo
+Training Repository
