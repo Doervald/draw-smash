@@ -1,6 +1,6 @@
 # Home page of repo
 
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Now let’s get started with GitHub!
+The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!!!
 
 You’ll learn how to:
 
@@ -12,3 +12,4 @@ Open and merge a pull request
 https://guides.github.com/activities/hello-world/
 
 Just go thru this URL
+
